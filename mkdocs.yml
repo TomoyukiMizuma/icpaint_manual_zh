@@ -246,6 +246,7 @@ nav:
   - 图层蒙版:                 layer_mask.md
   - 画笔:                     brush.md
   - 标尺 (画笔):              ruler_brush.md
+  - 曲线画笔:                 curve_brush.md
   - 用各种形状绘画(矩形, 圆形, 套索, 多边形): paint_with_shapes.md
   - 变换:                     transform.md
   - 矢量图层:                 vector_layer.md
